@@ -6,24 +6,13 @@ publisher:
   name: PhotoBucket
   favicon: 'http://pic2.pbsrc.com/common/favicon.ico'
   domain: s611.photobucket.com
-keywords:
-  - print
-  - printer
-  - epson
-  - photobucket
-  - p800
-  - surecolor
-  - photograph
-  - photography
-  - superb
-  - superior
+keywords: []
 description: "Explore Leda Grace Rasmussen's photos on Photobucket."
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://s611.photobucket.com/user/Leda_Grace_Rasmussen/media/2016-04-21%2018.59.59_zps6cbglnpx.jpg.html?filters[user]=143994684&filters[recent]=1&sort=1&o=27'
+isBasedOnUrl: 'http://s611.photobucket.com/user/Leda_Grace_Rasmussen/media/2016-04-21%2019.00.03_zpsjk2jh2qe.jpg.html?filters[user]=143994684&filters[recent]=1&sort=1&o=28'
 title: Photo by Leda Grace Rasmussen
-datePublished: '2016-04-24T10:53:18.058Z'
-dateModified: '2016-04-23T17:22:28.517Z'
+datePublished: '2016-04-24T10:53:18.160Z'
+dateModified: '2016-04-23T17:22:07.819Z'
 starred: false
 sourcePath: _posts/2016-04-24-photo-by-leda-grace-rasmussen.md
 published: true
@@ -34,4 +23,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Photo by Leda Grace Rasmussen</h1><p>Explore Leda Grace Rasmussen's photos on Photobucket.</p><img src="http://i611.photobucket.com/albums/tt191/Leda_Grace_Rasmussen/2016-04-21%2018.59.59_zps6cbglnpx.jpg" /></article>
+<article style=""><h1>Photo by Leda Grace Rasmussen</h1><p>Explore Leda Grace Rasmussen's photos on Photobucket.</p><img src="http://i611.photobucket.com/albums/tt191/Leda_Grace_Rasmussen/2016-04-21%2019.00.03_zpsjk2jh2qe.jpg" /></article>
